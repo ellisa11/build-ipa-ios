@@ -5,17 +5,17 @@ import subprocess
 import urllib2
 import poster
 
-Project_Path='/Users/wujia/Documents/code/ynoteios'
-Workspace='/Users/wujia/Documents/code/ynoteios/YNote.xcworkspace'
-Scheme='有道笔记'
+Project_Path='/Users/*/Documents/code/*'
+Workspace='/Users/*/Documents/code/*/*.xcworkspace'
+Scheme='**'
 Configuration='Debug'
-App_Path='/Users/wujia/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/Products/Debug-iphoneos/有道云笔记.app'
-Out_Path='/Users/wujia/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/Products/Debug-iphoneos/有道云笔记.ipa'
+App_Path='/Users/*/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/Products/Debug-iphoneos/*.app'
+Out_Path='/Users/*/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/Products/Debug-iphoneos/*.ipa'
 
 uploadurl='http://www.pgyer.com/apiv1/app/upload'
 
-ukey='c527645eccdf97653af73e7732858a04'
-apikey='b5036ab32debc03ea0d1d3ca16ee70ef'
+ukey='c527645eccdf97653af73e773285**'
+apikey='b5036ab32debc03ea0d1d3ca16ee7**'
 
 
 class Build():
