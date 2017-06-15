@@ -13,9 +13,9 @@ App_Path='/Users/*/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktm
 Out_Path='/Users/*/Library/Developer/Xcode/DerivedData/YNote-ewvbkrazcxnhicayktmrgqqwzltv/Build/Products/Debug-iphoneos/*.ipa'
 
 uploadurl='http://www.pgyer.com/apiv1/app/upload'
-
-ukey='c527645eccdf97653af73e773285**'
-apikey='b5036ab32debc03ea0d1d3ca16ee7**'
+#pgyer 
+ukey='c527645eccdf97653af73e77**'
+apikey='b5036ab32debc03ea0d1d**'
 
 
 class Build():
